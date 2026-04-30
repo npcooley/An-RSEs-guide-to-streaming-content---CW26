@@ -75,6 +75,39 @@ This guide is aimed at people who may be technically confident in their own doma
 
 ---
 
+## Use of AI Tools
+
+Contributors may use AI tools, such as chatbots, code assistants or writing assistants, to help draft, edit or review contributions. However, AI-generated material should be used responsibly and must be checked carefully before submission.
+
+If you use AI tools when contributing, please follow these principles:
+
+- **You are responsible for the contribution.** Do not submit AI-generated text, code or recommendations that you have not reviewed and understood.
+- **Check accuracy.** Streaming platforms, software tools, moderation features and accessibility options change over time. Please verify factual claims against current documentation where possible.
+- **Avoid invented references.** Do not include citations, links, tool names, statistics or claims unless you have checked that they are real and relevant.
+- **Respect copyright and licences.** Do not paste large amounts of generated or copied text from sources that are not compatible with this project’s licence.
+- **Protect privacy.** Do not put private data, unpublished research, personal information, credentials, chat logs or confidential project material into AI tools unless you have permission to do so.
+- **Preserve community voice.** This guide should reflect real experience from RSEs and adjacent communities. AI can help with wording, but it should not replace lived experience, practical knowledge or community review.
+- **Disclose substantial AI assistance.** If AI tools made a significant contribution to the text, structure or code in your pull request, please mention this briefly in the pull request description.
+
+Examples of helpful AI use include:
+
+- improving clarity or grammar
+- suggesting alternative headings
+- turning notes into a first draft
+- checking for inconsistent terminology
+- helping produce a plain-language summary
+
+Examples of AI use that need extra care include:
+
+- recommending specific software, hardware or services
+- making claims about platform rules or pricing
+- generating accessibility, legal, privacy or security advice
+- summarising someone else’s work without checking the original source
+
+Maintainers may ask contributors to revise, source or remove AI-assisted content if it is inaccurate, too generic, unsourced, or inconsistent with the aims of the guide.
+
+---
+
 ## Code of Conduct
 
 This project follows a simple principle: **be kind**.
