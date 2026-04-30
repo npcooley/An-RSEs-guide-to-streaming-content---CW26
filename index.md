@@ -8,7 +8,7 @@ nav_order: 1
 
 ## **Motivation: Why do you want to stream content?**
 
-Streaming has a rather low barrier in terms of content preparation. It may feel less intimidating when thinking about just having a conversation with the audience rather than shooting a full video or podcast. The streaming format is suitable for on the go conversations. You can do live reading, coding, figuring out tools, setting up a tool or computer or teaching about a tool or technique. The sky is the limit.
+Streaming can have a low barrier of entry in terms of content preparation. It can feel less intimidating when viewed as a conversation with the audience rather than the production of a full video or podcast. The streaming format is suitable for on-the-go or off-the-cuff style conversations. It can be appropriate for live reading, coding, figuring out tools, setting up a tool, instrument or development environment, or teaching about a tool or technique. The sky is the limit.
 
 Streaming can be a great format to speak to a potentially larger audience. You can get random drop-ins, the community can send over people from other streams, and the barrier for joining a stream is very low, no registration, login etc required. Apart from the potentially increased reach, the power of streaming over recorded formats is the interaction with the audience via chat. The content creator can ask the audience and vice versa. 
 
@@ -21,8 +21,8 @@ You can also browse categories: Science and Technology; Games and programming , 
 
 ## **Streaming Platform: Before you get started**
 
-You should be clear about your motivation on why you want to stream content, and whether Twitch is the right platform for you. Twitch is a live streaming platform known for its low entry barrier, low latency and interactivity, which is a good solution if you want to present ad hoc style ideas, conversations or interactive content to your audience. Traditionally focusing on gaming content, Twitch has recently undergone a broadening of its audience, with topics like Programming and Game development and Science and STEM as new content categories, which might be a good place for your (RSE) content.   
-However, other platforms do exist. You should familiarize yourself briefly with each of them before you commit to Twitch.
+You should be clear about your motivation on why you want to stream content, and which platform is right platform for you. Twitch is a major live streaming platform known for its low entry barrier, low latency and interactivity, which is a good solution if you want to present ad hoc style ideas, conversations or interactive content to your audience. Traditionally focusing on gaming content, Twitch has recently undergone a broadening of its audience, with topics like Programming and Game development and Science and STEM as new content categories, which might be a good place for your (RSE) content.   
+However, other platforms do exist. You should familiarize yourself briefly with each of them before you commit to one in particular.
 
 * Twitch \- gaming central, good for live interactions (low latency), but deletes recordings after 14-30 days. Twitch is usually streamed from a desktop PC.  
 * TikTok & Instagram \- vertical format, mobile friendly. Very young audience, focusing on short format. Limited screen sharing capacity.  
