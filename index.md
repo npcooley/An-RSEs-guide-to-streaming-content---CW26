@@ -7,18 +7,6 @@ nav_order: 1
 
 # **An RSE’s guide to streaming content\!**
 
-* Written sections  
-  * Motivation \- Samantha  
-  * Platform \- Johanna  
-  * Technical considerations \- Bethan, Grace  
-  * Content \-   
-  * Marking and advertising \- Laurah  
-  * Community management \- Johanna  
-  * Barriers and fears \- Johanna  
-* Video script \- Mateus, Grace  
-* Website setup & github repo \- Mateus, Nick  
-
-
 ## **Motivation: Why do you want to stream content?**
 
 Streaming has a rather low barrier in terms of content preparation. It may feel less intimidating when thinking about just having a conversation with the audience rather than shooting a full video or podcast. The streaming format is suitable for on the go conversations. You can do live reading, coding, figuring out tools, setting up a tool or computer or teaching about a tool or technique. The sky is the limit.
@@ -147,4 +135,21 @@ The internet is full of trolls. One fear that you might have is that they gather
 * We need to show our processes and not only the outputs, in this way we can have visibility and more collaborations and build communities.  
 * Twitch could just be the answer you need.  
 * Plug the resource\!\!\!
+
+## **Initial contributions!**
+
+This site and its content was originally constructed as a hackday project at CW26!
+
+Hackday Team:
+
+* Bethan Iley - Project proposal
+* Nick Cooley
+* Johannah Bayer
+* Laurah Ondari
+* Precious Onyewuchi
+* Samantha Wittke
+* Grace Wangui
+* Mateus Harrington
+
+
 
