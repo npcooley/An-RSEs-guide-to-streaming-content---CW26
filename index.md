@@ -68,7 +68,7 @@ However, other platforms do exist. You should familiarize yourself briefly with 
 
 ## **Initial contributions!**
 
-This site and its content was originally constructed as a hackday project at CW26!
+This site and its content were originally created as a Hackday project at [CW26](https://www.software.ac.uk/collaborations-workshop-hack-day)!
 
 Hackday Team:
 
