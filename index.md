@@ -79,7 +79,7 @@ Hackday Team:
 * Precious Onyewuchi
 * Samantha Wittke
 * Grace Wangui
-* Mateus Harrington
+* [Mateus Harrington](https://mateusharrington.com)
 
 
 
