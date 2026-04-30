@@ -1,3 +1,18 @@
 title: Live Streaming for RSEs
 description: A guide for research software engineers getting started with streaming
-theme: jekyll-theme-slate
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: dark # or "dark"
+search_enabled: true
+heading_anchors: true
+
+# Aux links shown top-right (e.g. link to your repo)
+aux_links:
+  "View on GitHub":
+    - "https://github.com/H-Mateus/An-RSEs-guide-to-streaming-content---CW26"
+
+# Footer
+footer_content: "Made with <a href=\"https://just-the-docs.com\">just-the-docs</a>."
+
+plugins:
+  - jekyll-remote-theme
