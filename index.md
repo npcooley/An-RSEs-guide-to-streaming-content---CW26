@@ -29,75 +29,42 @@ However, other platforms do exist. You should familiarize yourself briefly with 
 * YouTube \- more diverse audience \+ automatically saves videos to your channel, but greater latency, reduced interactive features  
 * Instagram \- “lives” on instagram are often used by fashion bloggers and influencers. However, instagram can be a good platform for RSE content, for example in the form of short summaries of concepts or for promotional purposes (i.e. promoting your upcoming twitch live stream).
 
-## **Community management \- interaction with your audience**
-
-Interaction with your audience is where your twitch streaming meets community management. 
-
-**Scheduling live streams**  
-From the start, you should communicate with your audience the conditions of your live streams. Do you want to stream regularly, during a certain allocated time slot? Or do you prefer to just come live when it suits your schedule? Either way, communicating this to your audience in advance can help manage expectations and set the stage, and avoid disappointments.   
-A good tool to broadcast your upcoming live stream is [buffer](https://buffer.com/), a tool that  allows you to broadcast a message or post to several linked platforms. Tools like these reduce workload and can increase your viewer count if you use them right before you go live. 
-
-**Interacting with viewers.**  
-One of Twitch’s strongest features is the ease of interaction with your audience. In fact, many life streams fall within the IRL (in real life) category, that consists of a person chatting and reacting to content from the audience. So you should make use of this feature as much as possible. It will also help you build an audience for your streaming channel
-
-**Building a community.**  
-Many Twitch streamers take it one step further, and create a space outside the life stream for their community to gather. [Discord](https://discord.com/) is a cheap option to create a space for your growing community, and also allows you to broadcast your upcoming live streams. However, building a community is more than free pizza.  If you want to learn more about fostering your community, you can have a look [here](https://book.the-turing-way.org/community-handbook/community-handbook/).
-
-## **Barriers & Fears**
-
-The reason why you are not already streaming, is probably because you have some considerations and concerns around live streaming. We have collated some of them and tried to give you some solutions.
-
-Fear of negative feedback from viewers.
-
-The internet is full of trolls. One fear that you might have is that they gather in your life stream. While we acknowledge that some members of the audience can b, most our interactions with our audience have been positive. 
-
-- Frequently encountered obstacles  
-  - Fear of negative feedback from viewers  
-    - Solution:   
-  - Infrastructural gaps (internet, hardware etc)  
-  - Time commitment  
-  - Fear of being identifiable (face in stream)  
-    - Solution: avatar, voice-only  
-  - Perfectionism / performance pressure  
-    - Solution: just get started  
-      
-
-**Video Script \- Clips to be inserted throughout the video with narration in the background**
-
-***Minute 0.00 \- 0.20 : The hook***
-
-*  Most dRTPs  work / research never gets seen, not because it is not valuable or important  
-* Why? But because it is locked in slides and papers or even internal tools  
-* What if people could see your work as it happens?
-
-***Minute 0:21: \- 0:50 The Problem***
-
-* As dRTPs and research teams we build complex systems and integrated systems and models but explaining that works can be hard  
-* Also, static outputs e.g. papers don’t show the behind the scenes (challenges, decisions,wins)
-
-
-***Minute 0:51 \- 1.30 The solution***
-
-* Twitch\!\!  
-* Why twitch \- it is live and interactive  
-* Give walkthroughs live  
-* Talk through your decisions  
-* Answer questions live  
-* Build a community  
-* Helps us achieve \- showing the process aka “behind the scenes”, outreach, collaborations
-
-**Minute 1:30 \-2:00 \-  Address the “issues”**
-
-* You don’t need a big audience  
-* You don’t need very fancy/expensive equipments  
-* Or to be entertaining  
-* Or fear to be identified \- use avatar
-
-**Minute 2.00- 2:15 Close**
-
-* We need to show our processes and not only the outputs, in this way we can have visibility and more collaborations and build communities.  
-* Twitch could just be the answer you need.  
-* Plug the resource\!\!\!
+<!-- **Video Script \- Clips to be inserted throughout the video with narration in the background** -->
+<!---->
+<!-- ***Minute 0.00 \- 0.20 : The hook*** -->
+<!---->
+<!-- *  Most dRTPs  work / research never gets seen, not because it is not valuable or important   -->
+<!-- * Why? But because it is locked in slides and papers or even internal tools   -->
+<!-- * What if people could see your work as it happens? -->
+<!---->
+<!-- ***Minute 0:21: \- 0:50 The Problem*** -->
+<!---->
+<!-- * As dRTPs and research teams we build complex systems and integrated systems and models but explaining that works can be hard   -->
+<!-- * Also, static outputs e.g. papers don’t show the behind the scenes (challenges, decisions,wins) -->
+<!---->
+<!---->
+<!-- ***Minute 0:51 \- 1.30 The solution*** -->
+<!---->
+<!-- * Twitch\!\!   -->
+<!-- * Why twitch \- it is live and interactive   -->
+<!-- * Give walkthroughs live   -->
+<!-- * Talk through your decisions   -->
+<!-- * Answer questions live   -->
+<!-- * Build a community   -->
+<!-- * Helps us achieve \- showing the process aka “behind the scenes”, outreach, collaborations -->
+<!---->
+<!-- **Minute 1:30 \-2:00 \-  Address the “issues”** -->
+<!---->
+<!-- * You don’t need a big audience   -->
+<!-- * You don’t need very fancy/expensive equipments   -->
+<!-- * Or to be entertaining   -->
+<!-- * Or fear to be identified \- use avatar -->
+<!---->
+<!-- **Minute 2.00- 2:15 Close** -->
+<!---->
+<!-- * We need to show our processes and not only the outputs, in this way we can have visibility and more collaborations and build communities.   -->
+<!-- * Twitch could just be the answer you need.   -->
+<!-- * Plug the resource\!\!\! -->
 
 ## **Initial contributions!**
 
