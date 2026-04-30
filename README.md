@@ -1,4 +1,4 @@
-# 🎥 Live Streaming for Research Software Engineers
+# 🎥 An RSE’s guide to streaming content!
 
 A community-built guide to help Research Software Engineers (RSEs) get started
 with live streaming — whether for conference talks, open source sprints,
@@ -10,11 +10,12 @@ tutorials, lab meetings, or community events.
 
 ## What's in the guide
 
-- **Technical Considerations** — microphones, cameras, lighting, and what actually matters on a budget
-- **OBS Setup** — scenes, sources, and settings for common RSE use cases
-- **Streaming Platforms** — YouTube, Twitch, and self-hosted options
-- **Accessibility** — captions, overlays, and making your stream inclusive
-- **FAQ** — common issues and how to fix them
+- **Motivation and platform choice** — why streaming might be useful for RSEs, and how to think about platforms such as Twitch, YouTube, TikTok and Instagram
+- **Technical considerations** — internet connection, streaming software, microphones, cameras, avatars, peripherals and moderation tools
+- **Content considerations** — stream formats, topic ideas, visibility choices, security considerations and examples
+- **Marketing and advertising** — cross-posting, collaboration, consistency and branding
+- **Community management** — scheduling, interacting with viewers, building community spaces and setting expectations
+- **Barriers and fears** — common worries about streaming and possible ways to address them
 
 ---
 
@@ -52,16 +53,16 @@ your patience and your contributions.
 
 ### Hackday Team:
 
-This site and its content was originally constructed as a hackday project at [CW26](https://www.software.ac.uk/collaborations-workshop-hack-day)!
+This site and its content were originally created as a Hackday project at [CW26](https://www.software.ac.uk/collaborations-workshop-hack-day)!
 
 - Bethan Iley - Project proposal
 - Nick Cooley
-- Johannah Bayer
+- Johanna Bayer
 - Laurah Ondari
 - Precious Onyewuchi
 - Samantha Wittke
 - Grace Wangui
-- Mateus Harrington
+- [Mateus Harrington](https://mateusharrington.com)
 
 ---
 
