@@ -14,7 +14,27 @@ Considering sharing your work more publicly through streaming is a great way to 
   * There’s the possibility of growing a strong and active community that can help each other out and build each other’s careers.   
 * Do you want to be on camera? Are alternatives to that interesting? i.e., an animated avatar of yourself  
   If you’re not comfortable streaming or displaying a live version of yourself streaming, there are options to use an animation to do your presentations.   
-* Security considerations\! Do you work with sensitive data?
+
+## Before you go live: security and privacy checklist
+
+Before streaming, check that you are not accidentally sharing:
+
+- private keys, tokens, passwords or API credentials
+- unpublished research data
+- sensitive personal data
+- private Slack, Teams, email or calendar notifications
+- internal repository names or issue trackers
+- browser tabs with confidential content
+- file paths that reveal personal or institutional information
+
+Practical mitigations:
+
+- use a separate browser profile for streaming
+- turn off desktop notifications
+- use a demo repository or synthetic dataset
+- prepare a clean working directory
+- hide terminal history if needed
+- use OBS scenes so you only share the window you intend to show
 
 ## Stream ideas:
 
