@@ -91,6 +91,10 @@ We broadly follow the [Contributor Covenant](https://www.contributor-covenant.or
 
 This guide is currently maintained by a small group of RSEs. We are volunteers doing this in the gaps between everything else, so please be patient with review times. We appreciate your understanding and your contributions enormously.
 
+## Attribution
+
+The first version of this website was created at the SSI's Collaboration Workshop (2026), during Hackday. All contributors are [acknowledged on the website](https://h-mateus.github.io/An-RSEs-guide-to-streaming-content---CW26/#initial-contributions).
+
 ---
 
 *Thank you for helping make this resource better for everyone in the RSE community.*
