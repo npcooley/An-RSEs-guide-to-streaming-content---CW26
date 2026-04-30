@@ -34,15 +34,19 @@ However, other platforms do exist. You should familiarize yourself briefly with 
 
 Content considerations:
 
-* How does your work, or your ideas, fit into streaming as a delivery vehicle  
-  Considering sharing your work more publicly through streaming is a great way to get real time interactions with your work, and build a strong community. Below are some reasons why you may consider it, and some options to consider for content when streaming:    
-  * Sharing your work in real time with an interested audience invites and gives them an idea of what you do. You get to share about your work with a wide variety of folks, possibly grow interest, and have folks from adjacent career paths get insight into your work and network with each other.   
-  * For remote workers, it creates a scheduled time for you to work, and can give the semblance of a real work environment, where there are other people in the room with you, and you’re interacting with them.  
-  * You can “rubber duck” through your work, possibly share topics you’re working on, and invite suggestions or solutions.   
-  * There’s the possibility of growing a strong and active community that can help each other out and build each other’s careers.   
-* Do you want to be on camera? Are alternatives to that interesting? i.e., an animated avatar of yourself  
-  If you’re not comfortable streaming or displaying a live version of yourself streaming, there are options to use an animation to do your presentations.   
-* Security considerations\! Do you work with sensitive data?
+* How does your work, or your ideas, fit into streaming as a delivery vehicle
+  Considering sharing your work more publicly through streaming is a great way to get real time interactions with your work, and build a strong community. Below are some reasons why you may consider it, and some options to consider for content when streaming:  
+
+   * Sharing your work in real time with an interested audience invites and gives them an idea of what you do. You get to share about your work with a wide variety of folks, possibly grow interest, and have folks from adjacent career paths get insight into your work and network with each other.
+   * For remote workers, it creates a scheduled time for you to work, and can give the semblance of a real work environment, where there are other people in the room with you, and you’re interacting with them.
+   * You can “rubber duck” through your work, possibly share topics you’re working on, and invite suggestions or solutions.
+   * There’s the possibility of growing a strong and active community that can help each other out and build each other’s careers. 
+* Do you want to be on camera? Are alternatives to that interesting? i.e., an animated avatar of yourself
+  If you’re not comfortable streaming or displaying a live version of yourself streaming, there are options to use an animation to do your presentations. An example of accounts that do this: https://psydere.com/
+* Security considerations! Do you work with sensitive data?
+  * We strongly recommend not streaming sensitive content.
+  * If you absolutely have to, please block out the sensitive information. 
+
 
 Stream ideas:
 
