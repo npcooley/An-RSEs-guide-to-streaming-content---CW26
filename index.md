@@ -144,7 +144,7 @@ Hackday Team:
 
 * Bethan Iley - Project proposal
 * Nick Cooley
-* Johannah Bayer
+* Johanna Bayer
 * Laurah Ondari
 * Precious Onyewuchi
 * Samantha Wittke
