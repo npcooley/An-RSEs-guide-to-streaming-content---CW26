@@ -6,8 +6,8 @@ nav_order: 3
 
 # **Content considerations**
 
-* How does your work, or your ideas, fit into streaming as a delivery vehicle  
-  Considering sharing your work more publicly through streaming is a great way to get real time interactions with your work, and build a strong community. Below are some reasons why you may consider it, and some options to consider for content when streaming:    
+Considering sharing your work more publicly through streaming is a great way to get real-time interactions with your work and build a strong community. Below are some reasons why you may consider it, and some options to consider for content when streaming: 
+* How does your work, or your ideas, fit into streaming as a delivery vehicle     
   * Sharing your work in real time with an interested audience invites and gives them an idea of what you do. You get to share about your work with a wide variety of folks, possibly grow interest, and have folks from adjacent career paths get insight into your work and network with each other.   
   * For remote workers, it creates a scheduled time for you to work, and can give the semblance of a real work environment, where there are other people in the room with you, and you’re interacting with them.  
   * You can “rubber duck” through your work, possibly share topics you’re working on, and invite suggestions or solutions.   
