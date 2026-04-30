@@ -14,7 +14,7 @@ Streaming has a rather low barrier in terms of content preparation. It may feel 
 Streaming can be a great format to speak to a potentially larger audience. You can get random drop-ins, the community can send over people from other streams, and the barrier for joining a stream is very low, no registration, login etc required. Apart from the potentially increased reach, the power of streaming over recorded formats is the interaction with the audience via chat. The content creator can ask the audience and vice versa. 
 
 Examples:   
-\- Bethans stream:   
+\- Psydere: [Website](https://psydere.com/) || [Twitch](https://www.twitch.tv/psydere)     
 \- CodeRefinery: https://www.twitch.tv/coderefinery   
 \- ..  
 \- ..  
