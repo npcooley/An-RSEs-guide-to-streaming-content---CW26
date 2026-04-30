@@ -4,7 +4,6 @@ layout: default
 nav_order: 1
 ---
 
-
 # **An RSE’s guide to streaming content\!**
 
 ## **Motivation: Why do you want to stream content?**
@@ -29,33 +28,6 @@ However, other platforms do exist. You should familiarize yourself briefly with 
 * TikTok & Instagram \- vertical format, mobile friendly. Very young audience, focusing on short format. Limited screen sharing capacity.  
 * YouTube \- more diverse audience \+ automatically saves videos to your channel, but greater latency, reduced interactive features  
 * Instagram \- “lives” on instagram are often used by fashion bloggers and influencers. However, instagram can be a good platform for RSE content, for example in the form of short summaries of concepts or for promotional purposes (i.e. promoting your upcoming twitch live stream).
-
-## **Content**
-
-Content considerations:
-
-* How does your work, or your ideas, fit into streaming as a delivery vehicle  
-  Considering sharing your work more publicly through streaming is a great way to get real time interactions with your work, and build a strong community. Below are some reasons why you may consider it, and some options to consider for content when streaming:    
-  * Sharing your work in real time with an interested audience invites and gives them an idea of what you do. You get to share about your work with a wide variety of folks, possibly grow interest, and have folks from adjacent career paths get insight into your work and network with each other.   
-  * For remote workers, it creates a scheduled time for you to work, and can give the semblance of a real work environment, where there are other people in the room with you, and you’re interacting with them.  
-  * You can “rubber duck” through your work, possibly share topics you’re working on, and invite suggestions or solutions.   
-  * There’s the possibility of growing a strong and active community that can help each other out and build each other’s careers.   
-* Do you want to be on camera? Are alternatives to that interesting? i.e., an animated avatar of yourself  
-  If you’re not comfortable streaming or displaying a live version of yourself streaming, there are options to use an animation to do your presentations.   
-* Security considerations\! Do you work with sensitive data?
-
-Stream ideas:
-
-- Developer stories \- interviewing more experienced RSEs about their career journey, how they built confidence, what they work on, etc  
-  - Maybe could be audio only \- podcast  
-- Live pair programming \- help normalise and just showcase how it works  
-- Live drop in session for help with RSE stuff?  
-- Career showcase stuff \- day in the life of a RSE  
-- Software setups \- IDE showcase  
-- Documentation on getting started with Twitch  
-- If you do anything physical (e.g. electronics) \- demos, live tinkering
-
-[Measuring Water Levels with an Arduino\! │ Physics + Games](https://youtu.be/GswjQ8N8K9k?t=3717)
 
 ## **Marketing & Advertising: If you build it, will they come?**
 

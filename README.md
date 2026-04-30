@@ -10,7 +10,7 @@ tutorials, lab meetings, or community events.
 
 ## What's in the guide
 
-- **Equipment** — microphones, cameras, lighting, and what actually matters on a budget
+- **Technical Considerations** — microphones, cameras, lighting, and what actually matters on a budget
 - **OBS Setup** — scenes, sources, and settings for common RSE use cases
 - **Streaming Platforms** — YouTube, Twitch, and self-hosted options
 - **Accessibility** — captions, overlays, and making your stream inclusive
