@@ -15,7 +15,7 @@ Streaming can be a great format to speak to a potentially larger audience. You c
 
 Examples:   
 \- Bethans stream:   
-\- CodeRefinery: https://www.twitch.tv/coderefinery   
+\- [CodeRefinery](https://www.twitch.tv/coderefinery)   
 \- ..  
 \- ..  
 You can also browse categories: Science and Technology; Games and programming , etc
