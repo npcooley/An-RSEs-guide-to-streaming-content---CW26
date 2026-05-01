@@ -73,7 +73,7 @@ This site and its content were originally created as a Hackday project at [CW26]
 Hackday Team:
 
 * Bethan Iley - Project proposal
-* Nick Cooley
+* [Nick Cooley](https://github.com/npcooley)
 * Johanna Bayer
 * Laurah Ondari
 * Precious Onyewuchi
